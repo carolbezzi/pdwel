@@ -7,6 +7,7 @@ Atividades
 
 [MMC e MDC - PHP](Atividade1/mmcemdc.php)
 
+**************************************
 
 [Array de Multiplos - HTML](Atividade1/array.html)
 
