@@ -3,6 +3,6 @@ Programação dinâmica para Web
 
 Atividades
 
-[MMC e MDC](Atividade1/mmcemdc.html)
+[MMC e MDC](Atividade 1/mmcemdc.html)
 
-[Array de Multiplos](Atividade1/array.html)
+[Array de Multiplos](Atividade 1/array.html)
